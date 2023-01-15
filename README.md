@@ -1,6 +1,6 @@
 # UP221-Do
 ## Who am I?
-I'm a MURP (Masters of Urban and Regional Planning) student at UCLA concentrating on Community Economic Development and Housing. Originally from the DC metro area (NoVa), I came to LA in the fall of 2021 for school.
+I'm a MURP (Masters of Urban and Regional Planning) student at UCLA concentrating on Community Economic Development and Housing. Originally from the DC metro area (NoVa), I came to LA in the fall of 2021 for school. Before UCLA, I worked at a DC-based housing nonprofit where I worked on a housing voucher program for low-income households living with HIV/AIDS. Before that, I worked at an immigration law firm. My interests in planning are centered around planning for immigrant communities. I'm open to pursuing any projects across a variety of topic areas, including affordable housing, green space, job access, and food access.
 ## What is UP221?
 This course is Introduction to GIS and Spatial Data Science.
 ## Class Objectives
