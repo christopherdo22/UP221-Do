@@ -1,0 +1,4 @@
+#Dataset 1
+Name: ACS Housing Characteristics DC
+Description: This dataset provides a breakdown of Housing Characteristics, including occupancy status, housing tenure, and mortgage/rent costs by census tract. This data could be used to display renter and homeowner rates, as well as map tenure. It would be a baseline dataset to establish local context for DC.
+Source URL: https://opendata.dc.gov/datasets/DCGIS::acs-housing-characteristics-dc-census-tract/about
